@@ -3,7 +3,7 @@ name: eslint-check
 
 on:
   push:
-    branches: [ main ]
+     - push
 
 jobs:
   lint:
