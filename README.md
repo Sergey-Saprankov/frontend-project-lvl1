@@ -6,3 +6,5 @@
 [![linter-check](https://github.com/Sergey-Saprankov/frontend-project-lvl1/actions/workflows/eslint-check.yml/badge.svg?branch=main&event=push)](https://github.com/Sergey-Saprankov/frontend-project-lvl1/actions/workflows/eslint-check.yml)
 
 [![asciicast](https://asciinema.org/a/mYWJWjIs34C6XHcIJ0HXDGBzd.svg)](https://asciinema.org/a/mYWJWjIs34C6XHcIJ0HXDGBzd)
+
+[![asciicast](https://asciinema.org/a/WS94m3mvV4JvMVdNK9Cylhrtg.svg)](https://asciinema.org/a/WS94m3mvV4JvMVdNK9Cylhrtg)
