@@ -5,7 +5,7 @@ export const userName = greetings();
 
 export const gameConditions = (question) => console.log(question);
 
-export const question = (number) => console.log(`Question: ${number}`);
+export const question = (number1) => console.log(`Question: ${number1}`);
 
 export const answerUser = () => {
   const answer = readlineSync.question('Your answer: ');
